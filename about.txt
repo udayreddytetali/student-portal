@@ -1,4 +1,0 @@
-Name : T .uday sai reddy
-course : devoops enginneer 
-
-I have learnt about how to upload and update files in github
