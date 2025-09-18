@@ -11,3 +11,5 @@ Basic dashboard for navigation
 Simple structure for easy understanding
 
 Beginner-friendly code and designs# student-portal-demo
+
+updated the readme file
